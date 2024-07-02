@@ -1,4 +1,4 @@
-# Cricket Data Ingestion Project
+# Generic Data Ingestion Project (Used Cricket Related Data)
 
 This project demonstrates an end-to-end data engineering pipeline for ingesting, processing, and analyzing cricket match data using Snowflake Cloud Data Warehouse. The project includes loading nested JSON files, transforming data, creating dimensional models, and visualizing the data through dashboards.
 
